@@ -1,0 +1,28 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+div{
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+.t1{
+    width: 70%;
+}
+span{
+    color:blue;
+    font-style: italic;
+}
+table,tr,td{
+    border:1px solid black;
+    background-color: rgb(241, 241, 98);
+border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+span1{
+    color:green;
+}
